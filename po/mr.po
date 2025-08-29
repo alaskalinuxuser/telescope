@@ -68,8 +68,8 @@ msgid ""
 "Released under the terms of the <a href=\"https://github.com/AsteroidOS/"
 "telescope/blob/master/LICENSE\">GNU GPL v3</a>"
 msgstr ""
-"<a href=\"https://github.com/AsteroidOS/telescope/blob/master/LICENSE\""
-">जीएनयू जीपीएल v3</a> च्या अटींनुसार रिलीझ केले"
+"<a href=\"https://github.com/AsteroidOS/telescope/blob/master/LICENSE"
+"\">जीएनयू जीपीएल v3</a> च्या अटींनुसार रिलीझ केले"
 
 #: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/LocationPicker.qml:10
 msgid "LocationPicker"
@@ -136,8 +136,8 @@ msgid ""
 "No smartwatches configured yet. Please connect your smartwatch using System "
 "Settings."
 msgstr ""
-"अद्याप कोणतीही स्मार्ट वॉच कॉन्फिगर केलेली नाही. कृपया सिस्टम सेटिंग्ज वापरू"
-"न आपले स्मार्टवॉच कनेक्ट करा."
+"अद्याप कोणतीही स्मार्ट वॉच कॉन्फिगर केलेली नाही. कृपया सिस्टम सेटिंग्ज वापरून आपले "
+"स्मार्टवॉच कनेक्ट करा."
 
 #: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/WeatherSettingsDialog.qml:10
 msgid "Weather Settings"

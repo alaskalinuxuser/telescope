@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-16 15:39+0000\n"
+"POT-Creation-Date: 2019-12-28 19:54+0000\n"
 "PO-Revision-Date: 2025-06-02 12:01+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/asteroidos/"
@@ -35,6 +35,14 @@ msgstr "Fuerte"
 msgid "Vibration on notification"
 msgstr "Vibrar en notificación"
 
+#: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/ExportPage.qml:18
+msgid "Share with"
+msgstr ""
+
+#: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/ExportPage.qml:18
+msgid "Save with"
+msgstr ""
+
 #: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/InfoPage.qml:10
 #: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/MainMenuPage.qml:20
 #: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/WatchesPage.qml:17
@@ -52,7 +60,8 @@ msgstr "Versión "
 
 #: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/InfoPage.qml:65
 msgid "This application let you synchronize with AsteroidOS smartwatches"
-msgstr "Esta aplicación permite sincronizar con relojes inteligentes AsteroidOS"
+msgstr ""
+"Esta aplicación permite sincronizar con relojes inteligentes AsteroidOS"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/InfoPage.qml:74
@@ -87,21 +96,41 @@ msgstr "desconectado"
 msgid "unkown"
 msgstr "desconocido"
 
-#: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/MainMenuPage.qml:102
+#: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/MainMenuPage.qml:103
 msgid "Synchronize time"
 msgstr "Sincronizar hora"
 
-#: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/MainMenuPage.qml:134
+#: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/MainMenuPage.qml:136
 msgid "Watch-Finder"
 msgstr "Buscador de reloj"
 
-#: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/MainMenuPage.qml:134
+#: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/MainMenuPage.qml:136
 msgid "The phone is looking for you!"
 msgstr "¡El teléfono le está buscando!"
 
-#: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/MainMenuPage.qml:137
+#: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/MainMenuPage.qml:139
 msgid "Find my watch"
 msgstr "Buscar el reloj"
+
+#: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/MainMenuPage.qml:160
+msgid "Take a screenshot"
+msgstr ""
+
+#: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/ScreenshotPage.qml:19
+msgid "Screenshot"
+msgstr ""
+
+#: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/ScreenshotPage.qml:34
+msgid "Save"
+msgstr ""
+
+#: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/ScreenshotPage.qml:46
+msgid "Share"
+msgstr ""
+
+#: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/ScreenshotPage.qml:94
+msgid "File saved under "
+msgstr ""
 
 #: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/WatchesPage.qml:87
 msgid ""

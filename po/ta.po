@@ -60,8 +60,7 @@ msgstr "பதிப்பு "
 
 #: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/InfoPage.qml:65
 msgid "This application let you synchronize with AsteroidOS smartwatches"
-msgstr ""
-"இந்த பயன்பாடு சிறுகோள் ச்மார்ட்வாட்ச்களுடன் ஒத்திசைக்க உங்களை அனுமதிக்கிறது"
+msgstr "இந்த பயன்பாடு சிறுகோள் ச்மார்ட்வாட்ச்களுடன் ஒத்திசைக்க உங்களை அனுமதிக்கிறது"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/InfoPage.qml:74
@@ -137,7 +136,8 @@ msgid ""
 "No smartwatches configured yet. Please connect your smartwatch using System "
 "Settings."
 msgstr ""
-"ச்மார்ட்வாட்ச்கள் இதுவரை கட்டமைக்கப்படவில்லை. கணினி அமைப்புகளைப் பயன்படுத்தி உங்கள் ச்மார்ட்வாட்சை இணைக்கவும்."
+"ச்மார்ட்வாட்ச்கள் இதுவரை கட்டமைக்கப்படவில்லை. கணினி அமைப்புகளைப் பயன்படுத்தி உங்கள் "
+"ச்மார்ட்வாட்சை இணைக்கவும்."
 
 #: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/WeatherSettingsDialog.qml:10
 msgid "Weather Settings"

@@ -68,8 +68,8 @@ msgid ""
 "Released under the terms of the <a href=\"https://github.com/AsteroidOS/"
 "telescope/blob/master/LICENSE\">GNU GPL v3</a>"
 msgstr ""
-"使用 <a href=\"https://github.com/AsteroidOS/telescope/blob/master/LICENSE\""
-">GNU GPL v3</a>许可证发布"
+"使用 <a href=\"https://github.com/AsteroidOS/telescope/blob/master/LICENSE"
+"\">GNU GPL v3</a>许可证发布"
 
 #: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/LocationPicker.qml:10
 msgid "LocationPicker"

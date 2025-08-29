@@ -136,8 +136,8 @@ msgid ""
 "No smartwatches configured yet. Please connect your smartwatch using System "
 "Settings."
 msgstr ""
-"هنوز هیچ ساعت هوشمندی پیکربندی نشده است. لطفاً ساعت هومندتان را با استفاده "
-"از تنظیمات سامانه وصل کنید."
+"هنوز هیچ ساعت هوشمندی پیکربندی نشده است. لطفاً ساعت هومندتان را با استفاده از "
+"تنظیمات سامانه وصل کنید."
 
 #: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/WeatherSettingsDialog.qml:10
 msgid "Weather Settings"

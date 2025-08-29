@@ -49,12 +49,12 @@ clickable desktop
 To build and install a click package for an armhf device:
 
 ```
-clickable
+clickable build -a armhf
 ```
 To build and install a click package for an arm64 device:
 
 ```
-clickable --arch=arm64
+clickable build -a arm64
 ```
 
 See [clickable documentation](http://clickable.bhdouglass.com/en/latest/) for details.
@@ -65,3 +65,4 @@ See [clickable documentation](http://clickable.bhdouglass.com/en/latest/) for de
 - Florent Revest (FlorentRevest)
 - Florian Blasius (FloVanGH)
 - Stefan Weng (StefWe)
+- Weston Howard(Alaskalinuxuser)

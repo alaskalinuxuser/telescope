@@ -60,8 +60,7 @@ msgstr "संस्करण "
 
 #: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/InfoPage.qml:65
 msgid "This application let you synchronize with AsteroidOS smartwatches"
-msgstr ""
-"यह एप्लिकेशन आपको AsteroidOS स्मार्टवॉच के साथ सिंक्रोनाइज़ करने देता है"
+msgstr "यह एप्लिकेशन आपको AsteroidOS स्मार्टवॉच के साथ सिंक्रोनाइज़ करने देता है"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: /home/stefan/Dokumente/ubports/telescope/app/qml/pages/InfoPage.qml:74
